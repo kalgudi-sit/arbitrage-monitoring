@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Arbitrage Tracker",
+  "description": "Real-time crypto arbitrage tracker monitoring live spot price discrepancies between Binance and Bybit with millisecond freshness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
